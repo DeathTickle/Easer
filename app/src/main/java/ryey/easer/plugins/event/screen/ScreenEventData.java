@@ -31,7 +31,7 @@ public class ScreenEventData extends AbstractEventData {
     enum ScreenEvent {
         on,
         off,
-        unlocked
+        unlocked,
     }
 
     final ScreenEvent screenEvent;
